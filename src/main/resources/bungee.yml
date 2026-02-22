@@ -1,0 +1,6 @@
+name: FastLoginLobbyBypass
+main: cz.fastlogin.lobbybypass.FastLoginLobbyBypass
+version: 1.0.7
+author: MessierMelon
+depends:
+  - FastLogin

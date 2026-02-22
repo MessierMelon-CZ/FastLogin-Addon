@@ -1,0 +1,6 @@
+lobby-server: "Lobby"
+auth-server: "auth"
+
+only-on-join: true
+require-fastlogin: true
+debug: false
